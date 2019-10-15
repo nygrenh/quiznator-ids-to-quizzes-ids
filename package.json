@@ -1,0 +1,15 @@
+{
+  "name": "e2ba9826-ef32-11e9-bcf8-93aee4f6a615",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid-by-string": "^0.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
